@@ -81,20 +81,18 @@ h1 strong {
 @media (min-width: 1110px) {
   .card {
     width: 1110px;
-    height: 446px;
 
     display: flex;
     flex-direction: row-reverse;
   }
 
   .image {
-    width: 540px;
     height: 446px;
     border-radius: 0 8px 8px 0;
   }
 
   img {
-    width: 540px;
+    width: 555px;
     height: 446px;
     border-radius: 0 8px 8px 0;
     mix-blend-mode: multiply;
@@ -102,7 +100,7 @@ h1 strong {
   }
 
   .card-text {
-    width: 570px;
+    width: 555px;
     margin: 71px 0 59px 72px;
     text-align: start;
   }
